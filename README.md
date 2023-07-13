@@ -15,3 +15,9 @@ while(count < 0)
   count++;
 }
 ```
+```C++
+while(count < 0)
+{
+  count++;
+}
+```
